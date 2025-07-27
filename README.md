@@ -1,4 +1,4 @@
-# 🌾 Intercrop Recommendation System
+# 🌾 Intercrop Recommendation System using Rule absed system
 
 A hybrid crop recommendation system that combines **machine learning** and **rule-based logic** to help farmers choose optimal primary and inter crops based on environmental and soil parameters.
 
